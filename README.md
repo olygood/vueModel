@@ -13,4 +13,4 @@ model of vuejs
 5. npm init -y  
 6. installer vueJs 
 6. npm install vue --save  
-7. fin
+7. fin.  
